@@ -1,0 +1,2 @@
+# Convolutional_neural_network_assignment
+Assignment to detect melanoma
